@@ -1,0 +1,16 @@
+#camera   : x,y,z
+camera    : 0,0,0 : 0,-20,0
+#sphere   : center x,y,z : radius r : clr
+sphere    : 0,0,20 : 5 : 16700000
+#plane    : dot x,y,z : normal x,y,z : clr
+#plane     : 2.5,-5,20 : 0,1,0 : 255000
+#cylinder : start dot x,y,z : axis x,y,z : radius r : clr
+#cylinder  : 0,0,20 : 1,1,-1 : 3 : 16712312
+#cone     : vertex x,y,z : axis x, y, z : angle a : clr
+#cone      : 5,5,10 : 0,1,0 : 20 : 234098
+#light    : type : intensive : dot(1) or vector(2)
+light     : 0 : 0.1
+#light     : 1 : 0.6 : 2,1,0
+light     : 1 : 0.6 : 0,0,-1
+#light     : 2 : 0.2 : -1,-1,-1
+#light     : 2 : 0.4 : 0,1,0
