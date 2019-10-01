@@ -25,8 +25,8 @@
 # include <unistd.h>
 # include <pthread.h>
 
-# define W 1300
-# define H 1300
+# define W 500
+# define H 500
 # define BUFF_SIZE 111
 # define BG_CLR 0
 

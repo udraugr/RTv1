@@ -48,7 +48,7 @@ SRC=$(addprefix $(SRC_DIR)/,$(C_FILES))
 OBJ=$(addprefix $(OBJ_DIR)/,$(O_FILES))
 LIBFT_A=./libft/libft.a
 MLX=-L minilibx_macos -lmlx -framework OpenGL -framework AppKit
-INCLUD=-I includes
+INCLUD=-I includes -I minilibx_macos
 WWW = -Wall -Wextra -Werror
 
 all: $(NAME)
