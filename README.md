@@ -10,5 +10,10 @@
 Цифры 1 и 2, поворачивают картинку по OX по часовой и против, 4 и 5 по оси ОY, 7 и 8 по оси OZ.
 Стрелочки вверх вниз премещают камеру вверх и вниз по оси OY, стрелочки влево и вправо перемещают по оси OX, а для перемещения по оси OZ для шага вперед нужно нажать клавишу home и end для шага назад.
 
+![Scene 2](https://github.com/udraugr/RTv1/raw/master/./image2.png)
+![Scene 4](https://github.com/udraugr/RTv1/raw/master/./image4.png)
+![Scene 5](https://github.com/udraugr/RTv1/raw/master/./image5.png)
+![Scene 7](https://github.com/udraugr/RTv1/raw/master/./image7.png)
+
 # Примечание:
 Этот проект полностью написан в школе программирования 21, и принадлежит ей.
