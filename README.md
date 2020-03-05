@@ -20,7 +20,7 @@
 * Стрелочки **влево/вправо** перемещают камеру влево/вправо по оси OX
 * Клавиши **home/end** перемещают камеру по оси OZ на шаг вперёд/назад
 
-[1]: https://github.com/udraugr/RTv1/edit/master/README.md "RU"
+[1]: https://github.com/udraugr/RTv1/master/README.md "RU"
 
 ## Три сферы на поверхности большой сферы:
 ![Scene 2](https://github.com/udraugr/RTv1/raw/master/./image2.png)
