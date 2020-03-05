@@ -1,5 +1,5 @@
-# [EN][1] Description the project in English
-[1]: https://github.com/udraugr/RTv1/master/README_EN.md "EN"
+### [EN][1] Description of the project in English
+[1]: https://github.com/udraugr/RTv1/blob/master/README_EN.md "EN"
 
 # RTv1 - командный проект по компьютерной графике
 В этом проекте мы знакомимся с рендерингом, в частности, с методом Ray Tracing.
