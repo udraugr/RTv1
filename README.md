@@ -12,7 +12,7 @@
 Для того, чтобы собрать проект, необходимо зайти в корневой каталог проекта и в терминале прописать команду **make**
 
 # Запус проекта:
-**./RTva [scene]** (несколько сцен есть в корневой папке).
+**./RTv1 [scene]** (несколько сцен есть в корневой папке).
 
 # Управление:
 * *На numpad* цифры **1** и **4** камеру по оси OX против и по часовой стрелке
@@ -41,3 +41,33 @@
 # RTv1 - team project on computer graphics
 In this project, we are familiar with the Ray Tracing method.
 The project was carried out at the School of Programming 21 (a branch of the French school "Ecole 42").
+
+# Build the project:
+To compile, you will need to install and configure the OpenGL framework and AppKit.
+In order to assemble the project, you need to go to the root directory of the project and in the terminal register the command **make**
+
+# Run the project:
+**./RTv1 [scene]** (several scenes are in the root folder).
+
+# Management:
+* *On numpad* digits **1** and **4** camera on the OX axis counterclockwise and clockwise
+* **2** and **5** -- along the OY axis
+* **3** and **6** -- along the OZ axis
+* Arrows **up/down** move the camera up / down along the OY axis
+* Arrows **left/right** move the camera left / right along the OX axis
+* **page up/page down** keys move the camera forward / backward along the OZ axis
+
+## Three spheres on the surface of a large sphere:
+![Scene 2](https://github.com/udraugr/RTv1/raw/master/./image2.png)
+
+## Intersecting spheres, light source from below
+![Scene 4](https://github.com/udraugr/RTv1/raw/master/./image4.png)
+
+## Various figures tilted, two light sources
+![Scene 5](https://github.com/udraugr/RTv1/raw/master/./image5.png)
+
+## A sphere surrounded by columns, many light sources
+![Scene 7](https://github.com/udraugr/RTv1/raw/master/./image7.png)
+
+### Note:
+This project is completely written in programming school 21, and belongs to her.
