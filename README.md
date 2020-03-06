@@ -15,7 +15,7 @@
 **./RTv1 [scene]** (несколько сцен есть в корневой папке).
 
 # Управление:
-* *На numpad* цифры **1** и **4** камеру по оси OX против и по часовой стрелке
+* *На numpad* цифры **1** и **4** вращает камеру по оси OX против и по часовой стрелке
 * **2** и **5** -- по оси ОY
 * **3** и **6** -- по оси OZ
 * Стрелочки **вверх/вниз** премещают камеру вверх/вниз по оси OY
@@ -39,18 +39,18 @@
 
 
 # RTv1 - team project on computer graphics
-In this project, we are familiar with the Ray Tracing method.
-The project was carried out at the School of Programming 21 (a branch of the French school "Ecole 42").
+In this project, we familiar ourselves with the Ray Tracing method.
+The project was carried out at School 21 (a branch of the French programming school "Ecole 42").
 
 # Build the project:
 To compile, you will need to install and configure the OpenGL framework and AppKit.
-In order to assemble the project, you need to go to the root directory of the project and in the terminal register the command **make**
+In order to build the project, you need to go to the root directory of the project and in the terminal type the command **make**
 
 # Run the project:
 **./RTv1 [scene]** (several scenes are in the root folder).
 
 # Management:
-* *On numpad* digits **1** and **4** camera on the OX axis counterclockwise and clockwise
+* *On numpad* digits **1** and **4** rotate camera along the OX axis counterclockwise and clockwise
 * **2** and **5** -- along the OY axis
 * **3** and **6** -- along the OZ axis
 * Arrows **up/down** move the camera up / down along the OY axis
@@ -66,8 +66,8 @@ In order to assemble the project, you need to go to the root directory of the pr
 ## Various figures tilted, two light sources
 ![Scene 5](https://github.com/udraugr/RTv1/raw/master/./image5.png)
 
-## A sphere surrounded by columns, many light sources
+## A sphere surrounded by columns, multiple light sources
 ![Scene 7](https://github.com/udraugr/RTv1/raw/master/./image7.png)
 
 ### Note:
-This project is completely written in programming school 21, and belongs to her.
+This project is done at programming School 21, and belongs to it.
