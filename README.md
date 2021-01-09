@@ -1,7 +1,7 @@
 ### [RU][1] Описание проекта на русском
-[1]: https://github.com/udraugr/RTv1/blob/master/README.md#rtv1---%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D0%BF%D0%BE-%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B9-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B5 "RU"
+[1]: https://github.com/udraugr/RTv1#rtv1---%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D0%BF%D0%BE-%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B9-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B5 "RU"
 ### [EN][2] Description of the project in English
-[2]: https://github.com/udraugr/RTv1/blob/master/README.md#rtv1---team-project-on-computer-graphics "EN"
+[2]: https://github.com/udraugr/RTv1#rtv1---team-project-on-computer-graphics "EN"
 
 # RTv1 - командный проект по компьютерной графике
 В этом проекте мы знакомимся с рендерингом, в частности, с методом Ray Tracing.
